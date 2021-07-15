@@ -1,6 +1,6 @@
-# pelican-cebong-theme #
+# pelican-cebon-theme #
 
-This version is forked from [pelican themes](https://github.com/getpelican/pelican-themes/tree/master/cebong).
+This version is forked from [pelican themes cebong](https://github.com/getpelican/pelican-themes/tree/master/cebong).
 Added:
 - Neighbors plugin
 - Images always centered
